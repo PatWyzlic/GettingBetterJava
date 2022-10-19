@@ -5,5 +5,6 @@ public class Main {
         double triangleAArea = triangleA.findArea();
 
         System.out.println(triangleAArea);
+        System.out.println(triangleA.sideLenThree);
     }
 }
